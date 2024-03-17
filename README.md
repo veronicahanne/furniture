@@ -29,11 +29,6 @@ The main HTML file is `index.html`, which includes links to the CSS and JavaScri
 If you find any issues or bugs with the website, or if you have suggestions for improvements, feel free to open an issue or pull request on the GitHub repository.
 
 ## Credits
-This website was created by [Aarzoo](https://twitter.com/Aarzoo75).
-
-
-## Source Code
-You can access the source code at - [click here](https://rb.gy/ezicr)
-
+This website was created by [Anne Veronicah).
 ## Preview
 ![Furniture Website](https://user-images.githubusercontent.com/59678435/230295812-1ea040d8-31fc-4a96-a066-8daf32473375.png)
